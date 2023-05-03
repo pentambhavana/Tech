@@ -1,0 +1,2 @@
+# Tech
+Techincal page
